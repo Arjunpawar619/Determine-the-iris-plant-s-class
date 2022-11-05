@@ -1,4 +1,4 @@
-# Determine-the-iris-plant-s-class<br>
+# Determine-the-iris-plant's-class<br>
 
 Selecting the best ML model to predict iris plant's class<br>
 Steps involved:-<br>
