@@ -1,6 +1,6 @@
 # Determine-the-iris-plant-s-class
 
-Selecting the best ML model to predict iris plant's class
+Selecting the best ML model to predict iris plant's class<br>
 Steps involved:-<br>
   • Perform EDA and Explore the features.
 
